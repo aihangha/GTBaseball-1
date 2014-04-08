@@ -83,10 +83,118 @@
         "number":14,
         "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361796.jpeg"
     },
-    {
+        {
         "name":"Connor Justus",
         "pos":"IF",
         "number":15,
         "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362126.jpeg"
-    }
+    },
+	    {
+        "name":"Elliott Barzilli",
+        "pos":"IF",
+        "number":16,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361763.jpeg"
+    },
+		{
+        "name":"Matt Phillips",
+        "pos":"RHP",
+        "number":20,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362155.jpeg"
+    },
+		{
+        "name":"Ben Parr",
+        "pos":"LHP",
+        "number":23,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362146.jpeg"
+    },
+	{
+        "name":"Joe Wiseman",
+        "pos":"RHP",
+        "number":24,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362184.jpeg"
+    },
+	{
+        "name":"Matthew Grimes",
+        "pos":"RHP",
+        "number":25,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362082.jpeg"
+    },
+	{
+        "name":"Matthew Gorst",
+        "pos":"RHP",
+        "number":26,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362079.jpeg"
+	},
+	{
+        "name":"Jonathan Roberts",
+        "pos":"RHP",
+        "number":27,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362164.jpeg"
+	},
+	{
+        "name":"Dusty Isaacs",
+        "pos":"RHP",
+        "number":28,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362118.jpeg"
+	},
+	{
+        "name":"Mitch Earnest",
+        "pos":"C",
+        "number":29,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361782.jpeg"
+	},
+	{
+        "name":"Ben Schniederjans",
+        "pos":"RHP",
+        "number":30,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361778.jpeg"
+	},
+	{
+        "name":"Tanner Shelton",
+        "pos":"LHP",
+        "number":31,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362168.jpeg"
+	},
+	{
+        "name":"TEric Knox",
+        "pos":"OF",
+        "number":32,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362132.jpeg"
+	},
+	{
+        "name":"Daniel Spingola",
+        "pos":"OF",
+        "number":35,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/8520422.jpeg"
+	},
+	{
+        "name":"Cole Pitts",
+        "pos":"RHP",
+        "number":36,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362158.jpeg"
+	},
+	{
+        "name":"Josh Heddinger",
+        "pos":"RHP",
+        "number":37,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362094.jpeg"
+	},
+	{
+        "name":"Jonathan King",
+        "pos":"LHP",
+        "number":39,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362128.jpeg"
+	},
+	{
+        "name":"Devin Stanton",
+        "pos":"LHP",
+        "number":41,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362173.jpeg"
+	},
+	{
+        "name":"Kyle Leach",
+        "pos":"RHP",
+        "number":42,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362134.jpeg"
+	},
 ]
